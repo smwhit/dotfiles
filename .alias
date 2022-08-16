@@ -1,0 +1,5 @@
+alias k="kubectl"
+alias d="docker"
+alias ll="ls -la"
+
+alias "git st"="git status"
